@@ -11,11 +11,11 @@ This simple Snake Game is designed to provide a nostalgic gaming experience. It 
 2. Open the project in IntelliJ IDEA.
 3. Build and run the application.
 4. Use arrow keys to control the snake:
--Up Arrow: Move Up<br>
--Down Arrow: Move Down<br>
--Left Arrow: Move Left<br>
--Right Arrow: Move Right<br>
-Try to eat the food to grow the snake and avoid collisions with the walls and yourself.<br>
+-Up Arrow: Move Up
+-Down Arrow: Move Down
+-Left Arrow: Move Left
+-Right Arrow: Move Right
+Try to eat the food to grow the snake and avoid collisions with the walls and yourself.
 
 ## Features
 -Classic Snake gameplay with a simple and intuitive interface.<br>
